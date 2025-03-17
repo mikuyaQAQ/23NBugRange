@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+  web:
+    build: .
+    ports:
+      - "8892:80"
+    container_name: "lkwa"

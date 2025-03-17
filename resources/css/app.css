@@ -1,0 +1,7 @@
+/* 导入文件，指定节点模块 */
+/* 样式 */
+@import 'admin-lte/dist/css/adminlte.min.css';
+/* 图标 */
+@import 'admin-lte/plugins/fontawesome-free/css/all.min.css';
+/* 字体 */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback');
